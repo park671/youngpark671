@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @youngpark671
+- 👀 I’m interested in perfermance car and its engines.
+- 🌱 I’m currently working on Android App dev, i worked in Alibaba Aplipay App Framework Department and Kwai Commercial Framework Department.
+- 💞️ I’m looking to collaborate on OS dev, car's ECU dev, harward related dev ...
+- 📫 How to reach me: youngpark_671@163.com .
